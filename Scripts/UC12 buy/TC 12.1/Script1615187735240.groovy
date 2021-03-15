@@ -38,7 +38,9 @@ WebUI.click(findTestObject('Object Repository/buy/Page_store/button__1'))
 
 WebUI.click(findTestObject('Object Repository/buy/Page_store/button__1_2'))
 
-WebUI.waitForElementPresent(findTestObject('buy/Page_store/buy btn'), 5)
+WebUI.waitForElementVisible(findTestObject('Page_store/download'), 7)
+
+WebUI.verifyTextPresent('ดาวโหลด', false)
 
 WebUI.closeBrowser()
 
