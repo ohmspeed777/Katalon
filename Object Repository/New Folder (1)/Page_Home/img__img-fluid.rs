@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-fluid</name>
+   <tag></tag>
+   <elementGuidId>66db2c00-d01f-499d-b111-43fef09ab2b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/section[6]/div/div[2]/div/ul/li/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.game-preOrder__area.my-4 > div.container > div.glide.slider-products.glide--ltr.glide--slider.glide--swipeable > div.glide__track > ul.glide__slides > li.glide__slide.game.glide__slide--active > a > img.img-fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/games/prePrders/Mafia Definitive Edition.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Mafia Definitive Edition</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/section[@class=&quot;game-preOrder__area my-4&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;glide slider-products glide--ltr glide--slider glide--swipeable&quot;]/div[@class=&quot;glide__track&quot;]/ul[@class=&quot;glide__slides&quot;]/li[@class=&quot;glide__slide game glide__slide--active&quot;]/a[1]/img[@class=&quot;img-fluid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/section[6]/div/div[2]/div/ul/li/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Mafia Definitive Edition'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/div/div[2]/div/ul/li/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>
